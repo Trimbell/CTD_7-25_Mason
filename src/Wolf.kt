@@ -5,5 +5,5 @@ class Wolf: Canine() {
 
     override fun makeNoise() = println("Hooooowl!")
 
-    override fun eat() = println("The Wolf is eating $food")
+    override fun eat() = println("The wolf is eating $food")
 }
