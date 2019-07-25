@@ -12,7 +12,3 @@ open class Animal {
 
     fun sleep() = println("The Animal is sleeping")
 }
-
-fun main() {
-
-}
