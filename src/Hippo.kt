@@ -6,4 +6,6 @@ class Hippo: Animal() {
     override fun makeNoise() = println("Grunt! Grunt!")
 
     override fun eat() = println("The Hippo is eating $food")
+
+    override fun roam() = println("The Hippo is roaming")
 }
